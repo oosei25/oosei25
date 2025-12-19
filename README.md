@@ -9,8 +9,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=oosei25&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f" alt="Open to collaboration" />
+   <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f" alt="Open to collaboration" />
 </p>
 
 </div>
@@ -42,9 +41,6 @@ I enjoy turning messy data into clear decisions—and shipping work that’s eas
 ## 🧰 Tech Stack
 <p>
   <!-- Core -->
-  <img src="https://img.shields.io/badge/Python-000?logo=python" />
-  <img src="https://img.shields.io/badge/SQL-000?logo=postgresql" />
-  <img src="https://img.shields.io/badge/R-000?logo=r" />
   <img src="https://img.shields.io/badge/Git-000?logo=git" />
   <img src="https://img.shields.io/badge/Linux-000?logo=linux" />
 </p>
@@ -97,8 +93,8 @@ I enjoy turning messy data into clear decisions—and shipping work that’s eas
 ## 📈 GitHub Stats
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=oosei25&show_icons=true&hide_title=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oosei25&layout=compact" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=oosei25&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=00000000&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oosei25&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true" />
 
 </div>
 
