@@ -38,42 +38,6 @@ I enjoy turning messy data into clear decisions—and shipping work that’s eas
 
 ---
 
-## 🧰 Tech Stack
-<p>
-  <!-- Core -->
-  <img src="https://img.shields.io/badge/Git-000?logo=git" />
-  <img src="https://img.shields.io/badge/Linux-000?logo=linux" />
-</p>
-
-<p>
-  <!-- Data/ML -->
-  <img src="https://img.shields.io/badge/Pandas-000?logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-000?logo=numpy" />
-  <img src="https://img.shields.io/badge/Scikit--learn-000?logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/PyTorch-000?logo=pytorch" />
-  <img src="https://img.shields.io/badge/Statsmodels-000" />
-  <img src="https://img.shields.io/badge/Experimentation-000" />
-  <img src="https://img.shields.io/badge/Jupyter-000?logo=jupyter" />
-</p>
-
-<p>
-  <!-- Data Engineering -->
-  <img src="https://img.shields.io/badge/Airflow-000?logo=apacheairflow" />
-  <img src="https://img.shields.io/badge/dbt-000?logo=dbt" />
-  <img src="https://img.shields.io/badge/Spark-000?logo=apachespark" />
-</p>
-
-<p>
-  <!-- Apps/Platforms -->
-  <img src="https://img.shields.io/badge/Streamlit-000?logo=streamlit" />
-  <img src="https://img.shields.io/badge/Shiny-000?logo=r" />
-  <img src="https://img.shields.io/badge/FastAPI-000?logo=fastapi" />
-  <img src="https://img.shields.io/badge/Docker-000?logo=docker" />
-  <img src="https://img.shields.io/badge/AWS-000?logo=amazonaws" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 > A few highlights — see my pinned repos for the most current work.
 
