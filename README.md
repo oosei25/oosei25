@@ -5,6 +5,7 @@
 <p>
   <a href="https://www.ofosuosei.com"><b>Portfolio</b></a> •
   <a href="https://github.com/oosei25"><b>GitHub</b></a> •
+  <a href="https://gitlab.com/oosei"><b>GitLab</b></a> •
   <a href="https://www.linkedin.com/in/ofosu-osei-2085-app/"><b>LinkedIn</b></a>
 </p>
 
