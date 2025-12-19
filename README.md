@@ -1,16 +1,114 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**oosei25/oosei25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ofosu Osei 👋🏾  
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://www.ofosuosei.com"><b>Portfolio</b></a> •
+  <a href="https://github.com/oosei25"><b>GitHub</b></a> •
+  <a href="https://www.linkedin.com/in/ofosu-osei-2085-app/"><b>LinkedIn</b></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=oosei25&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f" alt="Open to collaboration" />
+</p>
+
+</div>
+
+---
+
+## 🎯 About me
+I build practical, end-to-end data solutions: from **data engineering and analysis** to **modeling, experimentation**, and **interactive apps**.  
+I enjoy turning messy data into clear decisions—and shipping work that’s easy for others to use.
+
+---
+
+## 🧰 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-000?logo=python" />
+  <img src="https://img.shields.io/badge/SQL-000?logo=postgresql" />
+  <img src="https://img.shields.io/badge/R-000?logo=r" />
+  <img src="https://img.shields.io/badge/Java-000?logo=openjdk" />
+  <img src="https://img.shields.io/badge/C-000?logo=c" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000?logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript" />
+  <img src="https://img.shields.io/badge/React-000?logo=react" />
+  <img src="https://img.shields.io/badge/HTML5-000?logo=html5" />
+  <img src="https://img.shields.io/badge/Node.js-000?logo=node.js" />
+</p>
+
+---
+
+## 🧰 Tech Stack
+<p>
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/Python-000?logo=python" />
+  <img src="https://img.shields.io/badge/SQL-000?logo=postgresql" />
+  <img src="https://img.shields.io/badge/R-000?logo=r" />
+  <img src="https://img.shields.io/badge/Git-000?logo=git" />
+  <img src="https://img.shields.io/badge/Linux-000?logo=linux" />
+</p>
+
+<p>
+  <!-- Data/ML -->
+  <img src="https://img.shields.io/badge/Pandas-000?logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-000?logo=numpy" />
+  <img src="https://img.shields.io/badge/Scikit--learn-000?logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/PyTorch-000?logo=pytorch" />
+  <img src="https://img.shields.io/badge/Statsmodels-000" />
+  <img src="https://img.shields.io/badge/Experimentation-000" />
+  <img src="https://img.shields.io/badge/Jupyter-000?logo=jupyter" />
+</p>
+
+<p>
+  <!-- Data Engineering -->
+  <img src="https://img.shields.io/badge/Airflow-000?logo=apacheairflow" />
+  <img src="https://img.shields.io/badge/dbt-000?logo=dbt" />
+  <img src="https://img.shields.io/badge/Spark-000?logo=apachespark" />
+</p>
+
+<p>
+  <!-- Apps/Platforms -->
+  <img src="https://img.shields.io/badge/Streamlit-000?logo=streamlit" />
+  <img src="https://img.shields.io/badge/Shiny-000?logo=r" />
+  <img src="https://img.shields.io/badge/FastAPI-000?logo=fastapi" />
+  <img src="https://img.shields.io/badge/Docker-000?logo=docker" />
+  <img src="https://img.shields.io/badge/AWS-000?logo=amazonaws" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+> A few highlights — see my pinned repos for the most current work.
+
+- **A/B Testing + Causal Uplift Dashboard (Streamlit)** — [Live Demo](https://ab-testing-causal-uplift.streamlit.app/)  
+  Experiment health, lift, uplift modeling/HTE, and targeting simulation.
+
+- **Marketing Attribution Simulator (Shiny)** — [Live Demo](https://ofosuosei.shinyapps.io/marketing-attribution/)  
+  Interactive attribution modeling + scenario testing.
+
+- **Africa Momentum Index (Streamlit)** — [Live Demo](https://africa-momentum-index-mvp.streamlit.app/)  
+  Analytics MVP for exploring indicators and trends across African markets.
+
+- **Energy Forecasting (RNNs)**  
+  Time-series forecasting experiments + clean evaluation reporting.
+---
+
+## 📈 GitHub Stats
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=oosei25&show_icons=true&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oosei25&layout=compact" />
+
+</div>
+
+---
+
+## 🤝 Let’s connect
+- GitHub: https://github.com/oosei25  
+- LinkedIn: https://www.linkedin.com/in/ofosu-osei-2085-app/  
+- Email: **goofosuosei@gmail.com**
+
+<div align="center">
+  <sub>Built with ❤️ — simple, focused, and shippable.</sub>
+</div>
