@@ -65,9 +65,7 @@ I enjoy turning messy data into clear decisions—and shipping work that’s eas
 
 ---
 
-## 🤝 Let’s connect
-- GitHub: https://github.com/oosei25  
-- LinkedIn: https://www.linkedin.com/in/ofosu-osei-2085-app/  
+## 🤝 Let’s connect 
 - Email: **goofosuosei@gmail.com**
 
 <div align="center">
