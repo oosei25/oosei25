@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ofosu Osei 👋🏾  
+# Hi, I'm Ofosu 👋🏾  
 
 <p>
   <a href="https://www.ofosuosei.com"><b>Portfolio</b></a> •
