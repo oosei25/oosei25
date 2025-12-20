@@ -46,7 +46,6 @@ I enjoy turning messy data into clear decisions—and shipping work that’s eas
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oosei25&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000&hide_border=true" />
 
 </div>
----
 
 <div align="center">
   <sub>Built with ❤️ — simple, focused, and shippable.</sub>
