@@ -26,6 +26,9 @@ I enjoy turning messy data into clear decisions—and shipping work that’s eas
 ## 🚀 Featured Projects
 > A few highlights — see my pinned repos for the most current work.
 
+- **SmartManager POS** - [Website](https://smartmanagerpos.com/)
+  A LAN-first point-of-sale system with a dedicated store server, client installs, inventory, restaurant operations, reporting, seat-based licensing, and remote manager access over VPN.
+
 - **A/B Testing + Causal Uplift Dashboard (Streamlit)** — [Live Demo](https://ab-testing-causal-uplift.streamlit.app/)  
   Experiment health, lift, uplift modeling/HTE, and targeting simulation.
 
